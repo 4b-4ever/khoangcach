@@ -26,4 +26,5 @@ git commit -m 'my comment here'
 5. push changes to remote repo
 git push origin master
 
-
+6. pull latest changes to local
+git pull origin master
