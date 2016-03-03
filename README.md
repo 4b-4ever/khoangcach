@@ -1,6 +1,7 @@
 # khoangcach
 Tìm N điểm gần nhất từ một điểm X bất kỳ
-
+//HOANG add 
+upper
 // HUY added
 Giả sử 
 - Trong không gian có N hành tinh
@@ -28,3 +29,7 @@ git push origin master
 
 6. pull latest changes to local
 git pull origin master
+
+7.pwd: to check where you are (If necessary)
+
+cd: change directory
