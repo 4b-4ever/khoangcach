@@ -33,3 +33,6 @@ git pull origin master
 7.pwd: to check where you are (If necessary)
 
 cd: change directory
+
+---------------------
+test jump out from current - HUYDK
